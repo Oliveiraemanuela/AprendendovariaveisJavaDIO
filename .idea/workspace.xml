@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3fcda17-7eb8-4d77-9085-8ec1fb87c6da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AprendendoVariaveisJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/basecamp/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="d3fcda17-7eb8-4d77-9085-8ec1fb87c6da" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +64,18 @@
       <option name="presentableId" value="Default" />
       <updated>1659024896593</updated>
     </task>
+    <task id="LOCAL-00001" summary="AprendendoVariaveisJava.iml">
+      <created>1659026514533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659026514533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AprendendoVariaveisJava.iml" />
+    <option name="LAST_COMMIT_MESSAGE" value="AprendendoVariaveisJava.iml" />
   </component>
 </project>
